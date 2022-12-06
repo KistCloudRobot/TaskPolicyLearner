@@ -1,0 +1,5 @@
+tensorflow==1.15.0
+zmq
+pandas==1.1.5
+antlr4-python3-runtime==4.9.2=098
+pyglet==1.5.21
